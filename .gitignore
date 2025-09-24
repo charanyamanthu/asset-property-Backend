@@ -1,0 +1,15 @@
+# Ignore system files and folders
+.bash_history
+.gitconfig
+.vscode/
+AppData/
+OneDrive/
+*.exe
+*.zip
+*.msi
+*.pdf
+
+# Ignore other unnecessary files
+node_modules/
+desktop.ini
+.DS_Store
